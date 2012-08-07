@@ -1,0 +1,12 @@
+- ComicCMS 0.2
+  - Bugfix: PHP4 bugfix on settings page
+  - Bugfix: Error on deleting last comic
+  - Bugfix: Form validation on uninstall
+  - Bugfix: News linking to first comic
+  - Feature: Submit recovery on login failure
+  - Feature: Optional updates
+  - Thanks to all the alpha & beta testers
+
+- ComicCMS 0.1.9b
+  - Full re-code and re-release
+  - Many thanks to Shauni for the wonderful design work

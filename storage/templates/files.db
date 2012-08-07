@@ -1,0 +1,6 @@
+index|2,1|Main Page&c,Comic Pages&cGid>0|
+archive|1|Comic archive&c|
+news|2,1|News archive&c,Each news page&cGid>0|
+inc/css|1|External CSS&c|
+inc/feed|2,1|Comic RSS feed&c,News RSS feed&cGfeed=news|
+inc/error|1|Error 404&c|

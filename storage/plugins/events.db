@@ -1,0 +1,13 @@
+after_comic_add|auto_regen
+after_comic_edit|auto_regen
+after_comic_delete|auto_regen
+after_news_add|auto_regen
+after_news_edit|auto_regen
+after_news_delete|auto_regen
+after_template_edit|auto_regen
+after_template_delete|auto_regen
+after_plugin_edit|auto_regen
+after_plugin_delete|auto_regen
+after_template_edit_globals|auto_regen
+after_user_edit|auto_regen
+after_user_delete|auto_regen
