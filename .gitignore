@@ -1,2 +1,6 @@
 *.sw[a-p]
 *~
+
+# comiccms flat-file storage
+storage
+img
