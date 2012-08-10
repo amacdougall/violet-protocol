@@ -8,11 +8,12 @@ body {
     font-family:"Trebuchet MS",Helvetica,sans-serif;
     text-align:center;
 }
+
 #bodywrap {
     position:relative;
     margin:0 auto;
     padding:0 20px;
-    width:940px; /* Comment out this line (put /* at the beginning) if you want a fluid-width website) */
+    /* width:940px; /* Comment out this line (put /* at the beginning) if you want a fluid-width website) */
     text-align:left;
 }
 
@@ -107,8 +108,6 @@ h1 {
     
     text-align:center;
     background-color:#fff;
-    border-right:solid 5px #444;
-    border-left:solid 5px #444;
 }
 #comicset h2 {border:none 0px;}
 #comicimg {
