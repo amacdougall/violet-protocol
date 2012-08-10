@@ -1,6 +1,12 @@
 *.sw[a-p]
 *~
 
-# comiccms flat-file storage
-storage
+# comiccms flat-file storage (excluding plugins, templates)
+storage/cache
+storage/comics
+storage/dbversion
+storage/news
+storage/private
+storage/tmp
+
 img
